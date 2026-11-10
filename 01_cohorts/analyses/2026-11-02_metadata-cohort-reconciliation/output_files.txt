@@ -1,0 +1,46 @@
+README.md
+run.py
+input_files.txt
+output_files.txt
+tables/excluded_from_aligned_165_records.tsv
+tables/excluded_by_cohort_disease.tsv
+tables/nine_group_age_summary.tsv
+tables/nine_group_categorical_summary.tsv
+tables/nine_group_missingness.tsv
+tables/sample_count_reconciliation.tsv
+figures/ (empty; no figures generated)
+data_for_figures/ (empty; no figures generated)
+baseline_summary_zh.md
+baseline_analysis_report.md
+tables/baseline_omnibus_tests.tsv
+tables/baseline_pairwise_tests.tsv
+tables/baseline_nine_groups_publication_table.tsv
+tables/baseline_cohort_composition_and_availability.tsv
+tables/baseline_run_QA.json
+tables/baseline_base_R_validation.tsv
+run_cohort_adjusted.py
+cohort_adjusted_report_zh.md
+tables/cohort_adjusted_omnibus.tsv
+tables/cohort_adjusted_pairwise.tsv
+tables/cohort_adjusted_cohort_eligibility.tsv
+tables/cohort_adjusted_model_diagnostics.tsv
+tables/cohort_adjusted_QA.json
+plot_clinical_baseline.R
+figures/Fig_clinical_raw_distributions.pdf
+figures/Fig_clinical_raw_distributions.svg
+figures/Fig_clinical_raw_distributions.png
+figures/Fig_clinical_cohort_adjusted_forest.pdf
+figures/Fig_clinical_cohort_adjusted_forest.svg
+figures/Fig_clinical_cohort_adjusted_forest.png
+data_for_figures/Fig_clinical_raw_distributions.tsv
+data_for_figures/Fig_clinical_raw_age.tsv
+data_for_figures/Fig_clinical_raw_sex.tsv
+data_for_figures/Fig_clinical_raw_age_boxplot_statistics.tsv
+data_for_figures/Fig_clinical_cohort_adjusted_forest.tsv
+plot_crc_stage_location.R
+figures/Fig_CRC_stage_location_by_BMI.pdf
+figures/Fig_CRC_stage_location_by_BMI.svg
+figures/Fig_CRC_stage_location_by_BMI.png
+data_for_figures/Fig_CRC_stage_location_by_BMI.tsv
+tables/CRC_stage_location_by_BMI_tests.tsv
+plot_clinical_raw_with_pvalues.R (targeted revision of Fig_clinical_raw_distributions only)

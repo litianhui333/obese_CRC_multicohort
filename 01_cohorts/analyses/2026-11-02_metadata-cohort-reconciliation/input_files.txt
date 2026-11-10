@@ -1,0 +1,9 @@
+02.processed_data/01_metadata_processed/metadata_processed_20260208_restored.csv
+02.processed_data/02_aligned_data/metadata_aligned_20260208.csv
+E:/proj_ob_AA_CRC/supplementary_tables/Supplementary_Table_1_metadata/Supplementary_Table_1_metadata_filtered.csv
+01.scripts/01b_restore_processed_id.R (provenance only)
+01.scripts/02_id_mapping_and_merge.R (provenance only)
+01.scripts/07_Sample_Demographics_Table.R (existing-script assessment only)
+02.processed_data/01_metadata_processed/metadata_processed_20260208.csv (initial row-count comparison only)
+tables/cohort_adjusted_pairwise.tsv (figure input)
+tables/cohort_adjusted_omnibus.tsv (figure input)

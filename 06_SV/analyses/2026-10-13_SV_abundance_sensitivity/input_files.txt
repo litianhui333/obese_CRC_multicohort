@@ -1,0 +1,33 @@
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/tables/L1_L2_candidate_master.tsv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/all_BMI_dsgv.csv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/all_BMI_vsgv.csv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/metadata_allBMI_SGV_aligned.rds
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/03_metaphlan_split_data/metaphlan_strain_renormalized_20260115.rds
+
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-13_SV_abundance_sensitivity/tables/candidate_abundance_sensitivity_master.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/01_classify_BMI_SV_function_categories_modelQC_speciesResolved.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-13_SV_abundance_sensitivity/tables/formal_effect_specific_candidate_reporting.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-13_SV_abundance_sensitivity/tables/run_model_results_long.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-13_SV_abundance_sensitivity/data_for_figures/Fig_Ob_specific_abundanceAdjusted_crossBMI.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/plot_ob_L1_dSV_allSV_labels_final.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/plot_ob_L1_vSV_clustered_taxon_SVspecificity.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/prepared_data.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/tables/Ob_SV_taxon_abundance_crosswalk.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_dSGV_allBMI_rows.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_dSGV_cohort_retention_allSV_labels_final_long.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_taxon_SVspecificity.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_compact.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_compact_rows.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_compact_columns.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_compact_palette.tsv
+
+F:/Ob_AA_Figure/Figure_merged/Figure_organized_v6/S Table_updated.xlsx
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/SV_annotation/BMI_enriched_SV/19_ALL337_SV_function_annotation_master.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/01_function_classification/02_CDS_function_categories_long.tsv
+
+
+
+
+
+
+

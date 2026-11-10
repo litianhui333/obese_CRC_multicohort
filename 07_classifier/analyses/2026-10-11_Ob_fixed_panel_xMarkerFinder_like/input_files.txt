@@ -1,0 +1,66 @@
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/all_BMI_dsgv.csv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/all_BMI_vsgv.csv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/metadata_allBMI_SGV_aligned.rds
+H:/My Drive/proj_ob_AA_CRC/03.results/04_differential_abundance/heatmap_final/cache/abd_corrected_meta_clean.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-28_allBMI_BMIstratified_SV_landscape/tables/01_allBMI_full_SV_feature_to_SGB_map.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-28_allBMI_BMIstratified_SV_landscape/tables/02_BMIstratified_SGB_callability.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-07-13_bmi_union_overlap_heatmaps/tables/Feature_List_Ob_Refined.csv
+
+# Cross-BMI other-classifier transfer (exploratory; 2026-10-12)
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/evaluate_ob_panel_crossBMI_other_algorithms.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_marker_panels.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_fixed_development_test_split.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_algo_multi_algorithm_development_CV_tuning.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/tables/L1_L2_candidate_master.tsv
+
+
+# Targeted locked-panel multi-algorithm evaluation inputs
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/evaluate_locked_panel_algorithms.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/checkpoints/Ob__restricted_ObAssoc_L1L2_species.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/checkpoints/Ob__restricted_ObAssoc_L1L2_sv.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/checkpoints/Ob__restricted_ObAssoc_L1L2_joint.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_fixed_development_test_split.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_development_CV_fold_manifest.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_panel_test_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/redraw_multi_algorithm_ROC.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/plot_joint_XGBoost_SHAP.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_algo_multi_algorithm_test_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_algo_multi_algorithm_development_CV_tuning.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-07-13_bmi_union_overlap_heatmaps/tables/Feature_List_Ob_Refined.csv
+
+Fixed-panel nested repeated CV script:
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/evaluate_fixed_panels_nested_repeated_CV.R
+Fixed locked marker list:
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_marker_panels.tsv
+
+# Ob-only ROC figure redraw reads the already generated representative curves and AUC summary
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/data_for_figures/restricted_ObAssoc_L1L2_crossBMI_otherAlgorithms_Fig_transfer_ROC_representative_curves.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_crossBMI_otherAlgorithms_AUC_summary.tsv
+
+# Targeted Ob nested-CV representative empirical ROC redraw
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_oof_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_repeat_AUC.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_summary.tsv
+# Ob-specific label annotations for combined marker importance redraw
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-07-13_bmi_union_overlap_heatmaps/tables/Feature_List_Ob_Refined.csv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_dSGV_cohort_retention_allSV_labels_final_rows.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_taxon_SVspecificity_rows.tsv
+
+# Targeted five-method cross-BMI ROC redraw (joint panel only)
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/data_for_figures/restricted_ObAssoc_L1L2_crossBMI_otherAlgorithms_Fig_transfer_ROC_representative_curves.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_crossBMI_otherAlgorithms_AUC_summary.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/data_for_figures/restricted_ObAssoc_L1L2_nestedCV_Fig_ROC_representative_repeat.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_summary.tsv
+# Ob single-panel marker importance targeted redraw
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_marker_panels.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/checkpoints/Ob__restricted_ObAssoc_L1L2_species.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/checkpoints/Ob__restricted_ObAssoc_L1L2_sv.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-07-13_bmi_union_overlap_heatmaps/tables/Feature_List_Ob_Refined.csv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/tables/L1_L2_candidate_master.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_dSGV_cohort_retention_allSV_labels_final_rows.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_Ob_vSGV_multicolor_clustered_taxon_SVspecificity_rows.tsv
+
+# Targeted three-panel membership crosswalk sources
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_marker_panels.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/02_circos_inputs/01_SGB_sector_labels.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/01_function_classification/02_CDS_function_categories_long.tsv

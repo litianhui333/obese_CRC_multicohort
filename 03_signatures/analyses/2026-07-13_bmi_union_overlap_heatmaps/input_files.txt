@@ -1,0 +1,8 @@
+G:/My Drive/proj_ob_AA_CRC/01.scripts/29_BMI_Stratified_Disease_Heatmap.R
+G:/My Drive/proj_ob_AA_CRC/01.scripts/DA_analysis_figure_utils_functions.R
+G:/My Drive/proj_ob_AA_CRC/01.scripts/DA_function.R
+G:/My Drive/proj_ob_AA_CRC/02.processed_data/02_aligned_data/metadata_aligned_20260208.rds
+G:/My Drive/proj_ob_AA_CRC/02.processed_data/03_metaphlan_split_data/metaphlan_strain_renormalized_20260115.rds
+G:/My Drive/proj_ob_AA_CRC/03.results/04_differential_abundance/microbiome_analysis_all_results_BMI_Group1_0.7_20260123.rds
+G:/My Drive/proj_ob_AA_CRC/03.results/04_differential_abundance/heatmap_final/Robust_Analysis_v5_Pure/Robust_Stat_overall_CTRL_vs_CRC.rds
+G:/My Drive/proj_ob_AA_CRC/03.results/04_differential_abundance/heatmap_final/cache/abd_corrected_meta_clean.rds

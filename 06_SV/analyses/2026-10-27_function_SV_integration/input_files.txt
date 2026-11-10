@@ -1,0 +1,12 @@
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/SV_annotation/BMI_enriched_SV/18_SV_CDS_eggNOG_annotation_long.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/tables/L1_L2_candidate_master.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-13_SV_abundance_sensitivity/tables/formal_effect_specific_candidate_reporting.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-13_SV_abundance_sensitivity/tables/run_model_results_long.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-06-25_high-esi-pathway-contributors/tables/high_esi_obese_crc_aligned_pathways_for_abundance_panels.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-06-25_high-esi-pathway-contributors/tables/pathway_taxon_group_contribution.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-06-25_high-esi-pathway-contributors/tables/publication_ObAA_pathway_contributor_summary.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-29_BMI_enriched_SV_function_modelQC/2026-09-30_BMI_specificity_layers/data_for_figures/Heatmap_L1_dSGV_allBMI_group_means.tsv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/04_humann_aligned/humann_ec_relative_abundance_matched_clean_renorm.rds
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/02_aligned_data/metadata_aligned_20260208.rds
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/metadata_allBMI_SGV_aligned.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-05-14_ec_bmi_specific_signatures/tables/EC_DA_Long_AllComparisons.csv

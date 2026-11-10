@@ -1,0 +1,6 @@
+plots/Fig_callable_SGB_overlap_allBMI.pdf
+plots/Fig_callable_SGB_overlap_allBMI.png
+plots/Fig_callable_SGB_overlap_allBMI.svg
+data_for_figures/Fig_callable_SGB_overlap_allBMI_membership.tsv
+data_for_figures/Fig_callable_SGB_overlap_allBMI_regions.tsv
+data_for_figures/Fig_callable_SGB_overlap_allBMI_groups.tsv

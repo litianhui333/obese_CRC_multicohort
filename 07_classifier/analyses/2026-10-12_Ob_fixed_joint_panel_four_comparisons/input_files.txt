@@ -1,0 +1,45 @@
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_marker_panels.tsv
+
+# Asia/non-Asia score-only ROC evaluation
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/metadata_allBMI_SGV_aligned.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/cross_stage_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Ob22_fourComp_nested5x5_oof_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/evaluate_fixed_panels_nested_repeated_CV.R
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/all_BMI_dsgv.csv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/all_BMI_vsgv.csv
+H:/My Drive/proj_ob_AA_CRC/02.processed_data/05_SV_result/all_BMI_crossBMI/metadata_allBMI_SGV_aligned.rds
+H:/My Drive/proj_ob_AA_CRC/03.results/04_differential_abundance/heatmap_final/cache/abd_corrected_meta_clean.rds
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-28_allBMI_BMIstratified_SV_landscape/tables/01_allBMI_full_SV_feature_to_SGB_map.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-09-28_allBMI_BMIstratified_SV_landscape/tables/02_BMIstratified_SGB_callability.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-05-18_exclude_stage_iii_iv_crc_metadata_summary/run.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_fixed_development_test_split.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_algo_multi_algorithm_test_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_algo_multi_algorithm_development_CV_tuning.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/checkpoints/Ob__restricted_ObAssoc_L1L2_joint.rds
+
+# Independent frozen-model transfer audit
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Ob22_CTRLCRC_model_transfer_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Ob22_CTRLCRC_model_transfer_AUC.tsv
+
+# Existing CTRL/CRC out-of-fold predictions reused for stage-subset stability
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_oof_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_repeat_AUC.tsv
+
+# Cross-stage score-only evaluation
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Ob22_CTRLCRC_model_transfer_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_fixed_development_test_split.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_algo_multi_algorithm_test_predictions.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_locked_marker_panels.tsv
+H:\My Drive\proj_ob_AA_CRC\analyses\2026-10-12_Ob_fixed_joint_panel_four_comparisons\tables\Ob22_CTRLCRC_model_transfer_predictions.tsv
+H:\My Drive\proj_ob_AA_CRC\analyses\2026-10-12_Ob_fixed_joint_panel_four_comparisons\tables\Ob22_CTRLCRC_model_transfer_audit_pairwise_AUC.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Ob22_CTRLCRC_stage_transfer_nested5x5_repeat_AUC.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/plot_within_study_transfer_four_panels.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/evaluate_ctrl_crc_model_transfer.R
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_fold_manifest.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-11_Ob_fixed_panel_xMarkerFinder_like/tables/restricted_ObAssoc_L1L2_nestedCV_inner_tuning.tsv
+H:\My Drive\proj_ob_AA_CRC\analyses\2026-10-12_Ob_fixed_joint_panel_four_comparisons\tables\Ob22_CTRLCRC_stage_transfer_nested5x5_summary.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/data_for_figures/Fig_Ob_originalCRCworkflow_OOF_allComparisons_AAreversed_noLASSO_samples.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Fig_Ob_originalCRCworkflow_OOF_allComparisons_AAreversed_noLASSO_summary.tsv
+H:/My Drive/proj_ob_AA_CRC/analyses/2026-10-12_Ob_fixed_joint_panel_four_comparisons/tables/Ob22_CTRLCRC_stage_transfer_nested5x5_summary.tsv
+
+

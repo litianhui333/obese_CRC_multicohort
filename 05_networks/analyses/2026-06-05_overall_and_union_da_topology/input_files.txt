@@ -1,0 +1,4 @@
+03.results/06_network_analysis/DGCA_Results/DA_only_subnetwork_Obese_Union_Heatmaps/Union_All_BMI_DA_Highlight_Ob_SeedTaxa.csv
+03.results/06_network_analysis/DGCA_Results/CTRL_Normal_vs_CRC_Normal/table/DGCA_all_CTRL_Normal_vs_CRC_Normal.csv
+03.results/06_network_analysis/DGCA_Results/CTRL_Ow_vs_CRC_Ow/table/DGCA_all_CTRL_Ow_vs_CRC_Ow.csv
+03.results/06_network_analysis/DGCA_Results/CTRL_Ob_vs_CRC_Ob/table/DGCA_all_CTRL_Ob_vs_CRC_Ob.csv
